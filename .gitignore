@@ -1,5 +1,1 @@
 .vagrant/
-
-# no aem payload here, except the readme
-payment/aem/*
-!payment/aem/readme.md

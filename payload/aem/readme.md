@@ -1,0 +1,1 @@
+drop here: the aem quickstart jar, the latest service pack zip, and license file
